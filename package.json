@@ -1,0 +1,17 @@
+{
+  "name": "@mrhansamala/derana-news-scraper",
+  "version": "2.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["derana","derana-news","derana-scraper","scraper","news","srilanka","npm"],
+  "author": "mrhansamala",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0"
+  }
+}
